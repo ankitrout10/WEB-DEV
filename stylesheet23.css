@@ -1,0 +1,29 @@
+div{
+    padding: 15px;
+    margin: 15px;
+    width: 27%;
+    text-align: center;
+    display: inline-block;
+    color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+#div1{
+    background-image: linear-gradient(90deg,rgb(198, 21, 21),rgb(202, 202, 29));
+}
+#div2{
+    background-image: linear-gradient(90deg,rgb(7, 7, 177),rgb(24, 174, 174));
+}
+#div3{
+    background-image: linear-gradient(90deg,green,cyan);
+}
+button{
+    background-image: linear-gradient(90deg,rgb(26, 169, 169),rgb(169, 104, 104));
+    color:antiquewhite;
+    width: 90px;
+    height: 30px;
+    border:rgb(15, 15, 168);
+    border-radius: 20px;
+}
